@@ -1,0 +1,58 @@
+{
+  "id": "3777360",
+  "name": "网易云",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4275809",
+      "name": "对话",
+      "font_class": "duihua",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "9606432",
+      "name": "音乐演奏",
+      "font_class": "yinleyanzou",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "9874492",
+      "name": "KHCFDC_关注",
+      "font_class": "guanzhu",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "12387163",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e90e",
+      "unicode_decimal": 59662
+    },
+    {
+      "icon_id": "26482297",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "32793515",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "32793519",
+      "name": "arrow-up",
+      "font_class": "arrow-up",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
